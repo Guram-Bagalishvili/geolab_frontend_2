@@ -35,7 +35,7 @@ After that i start thinking what techniques should i use for positioning element
 
 ### What I learned
 
-How to use the position property in CSS - ```<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Outfit"/>```
+How to use the position property in CSS - ```position: relative; position: absolute;```
 
 The position Property -	static - An element with position: static; is always positioned according to the normal flow of the page.
 				relative - An element with position: relative; is positioned relative to its normal position.
